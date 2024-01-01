@@ -1,0 +1,26 @@
+@NvdReader.Api_HostAddress = https://localhost:32770
+
+GET {{NvdReader.Api_HostAddress}}/cve/CVE-2019-1010218
+Accept: application/json
+
+###
+
+GET {{NvdReader.Api_HostAddress}}/cve/CVE-2019-1010218/changes
+Accept: application/json
+
+###
+
+GET {{NvdReader.Api_HostAddress}}/cpe/87316812-5F2C-4286-94FE-CC98B9EAEF53
+Accept: application/json
+
+###
+
+GET {{NvdReader.Api_HostAddress}}/cpeMatch/36FBCF0F-8CEE-474C-8A04-5075AF53FAF4
+Accept: application/json
+
+###
+
+GET {{NvdReader.Api_HostAddress}}/source/cve%40mitre.org
+Accept: application/json
+
+###
