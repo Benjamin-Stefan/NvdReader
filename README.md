@@ -2,7 +2,7 @@
 [![Build Status](https://github.com/Benjamin-Stefan/NvdReader/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Benjamin-Stefan/NvdReader/actions/workflows/dotnet.yml)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Status:** Education
+**Status:** Educational
 
 Demonstration project for [NVD Data](https://nvd.nist.gov/developers/) and C#/.NET technologies.
 
@@ -66,5 +66,5 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore and contribute!
 
